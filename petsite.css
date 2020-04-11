@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+}
+
+.navbar {
+    background-color: lightgray;
+    width: 100%;
+    margin: 0;
+}
+
+.nav-element {
+    display: inline-block;
+    padding: 20px 35px;
+    background-color: gray;
+    text-align: center;
+    color: white;
+}
+
+.left {
+    background-color: blue;
+    width: 29%;
+    height: 600px;
+    float: left;
+}
+
+.top-left-pet-name {
+    background-color: orange;
+    height: 25%;
+    text-align: center;
+}
+
+.bottom-left-pet-info {
+    background-color: sienna;
+    height: 75%;
+}
+
+.mousse-main {
+    padding-top: 15px;
+    height: 80px;
+    width: auto;
+}
+
+.right {
+    background-color: cyan;
+    width: 70%;
+    height: 600px;
+    float: left;
+}
+
